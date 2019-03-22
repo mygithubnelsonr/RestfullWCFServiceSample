@@ -1,0 +1,8 @@
+
+Der Client:
+der client is the default.aspx ist die startseite die im browser angezeigt wird.
+
+Der Service:
+der service is the web application i.g. service1.svc
+
+ 
